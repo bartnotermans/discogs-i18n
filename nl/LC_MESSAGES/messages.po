@@ -131,10 +131,10 @@ msgstr "Discografie"
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
 "href=\"/marketplace\">sell</a> music."
-msgstr "Discogs is de veilige en makkelijke manier om muziek te kopen en te <a href=\"/marketplace\">verkopen</a>."
+msgstr "Discogs is de veiligste en makkelijkste manier om muziek te kopen en te <a href=\"/marketplace\">verkopen</a>."
 
 msgid "Discogs users are auto-notified when items they want are listed."
-msgstr "Discogs-gebruikers ontvangen automatisch meldingen wanneer voorwerpen die zij willen beschikbaar zijn."
+msgstr "Discogs-gebruikers ontvangen automatisch meldingen wanneer items die zij willen beschikbaar zijn."
 
 msgid "Discover"
 msgstr "Ontdek"
@@ -224,10 +224,10 @@ msgid "Indie Rock"
 msgstr "Indie Rock"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr "Aanbiedingen en alle updates kunnen met veel tegelijk worden uitgevoerd"
+msgstr "Aanbiedingen en alle updates kunnen gezamelijk worden uitgevoerd"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr "Aanbiedingen worden één voor één uitgevoerd, maar kunnen met veel tegelijk worden bijgewerkt"
+msgstr "Aanbiedingen worden één voor één uitgevoerd, maar kunnen wel gezamelijk worden bijgewerkt"
 
 msgid "Item"
 msgstr "Item"
@@ -243,7 +243,7 @@ msgid ""
 msgstr "Items worden in de zoekresultaten weergegeven op basis van artiest, titel en drager"
 
 msgid "Items are displayed under the exact release you list them"
-msgstr "Voorwerpen worden weergegeven onder de exacte release die je hebt opgegeven"
+msgstr "Voorwerpen worden weergegeven op volgorde van release zoals je deze hebt opgegeven"
 
 msgid "Jazz"
 msgstr "Jazz"
@@ -335,10 +335,10 @@ msgid "My Purchases"
 msgstr "Mijn aankopen"
 
 msgid "Needs Changes"
-msgstr "Vereist bewerking"
+msgstr "Heeft bewerking nodig"
 
 msgid "Needs Vote"
-msgstr "Vereist stemmen"
+msgstr "Heeft stemmen nodig"
 
 msgid "New Releases"
 msgstr "Nieuwe releases"
@@ -431,7 +431,7 @@ msgid "Released"
 msgstr "Uitgebracht"
 
 msgid "Releases"
-msgstr "Uitgebracht"
+msgstr "Releases"
 
 msgid "Reviews"
 msgstr "Reviews"
@@ -455,7 +455,7 @@ msgid "Sell"
 msgstr "Verkoop"
 
 msgid "Selling here gets you instant exposure to our high traffic."
-msgstr "Op deze plaats heb je een zeer groot publiek dat je aanbiedingen zal zien."
+msgstr "Hier heb je een zeer groot publiek dat je aanbiedingen zal zien."
 
 msgid "Selling vinyl records and CDs has never been easier."
 msgstr "Vinylplaten en cd's verkopen was nog nooit zo makkelijk."
@@ -497,7 +497,7 @@ msgid "Start Shopping"
 msgstr "Beginnen met winkelen"
 
 msgid "Start getting recommendations by making a purchase in the marketplace."
-msgstr "Je zult aanbevelingen ontvangen nadat je aankoop hebt gedaan op de marktplaats."
+msgstr "Je zult aanbevelingen ontvangen nadat je een aankoop hebt gedaan op de marktplaats."
 
 msgid "Style"
 msgstr "Stijl"
@@ -521,16 +521,16 @@ msgid "Terms of Service"
 msgstr "Gebruiksvoorwaarden"
 
 msgid "The Best Way to Sell Music"
-msgstr "Deze beste manier om muziek te verkopen"
+msgstr "De beste manier om muziek te verkopen"
 
 msgid "The info is already here."
 msgstr "Alle informatie is er al."
 
 msgid "This label does not exist in Discogs."
-msgstr "Dat label bestaat niet op Discogs."
+msgstr "Dit label bestaat niet op Discogs."
 
 msgid "This label has no approved releases"
-msgstr "Dat label heeft geen goedgekeurde releases"
+msgstr "Dit label heeft geen goedgekeurde releases"
 
 msgid "Total"
 msgstr "Totaal"
